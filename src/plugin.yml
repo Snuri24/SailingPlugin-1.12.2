@@ -1,0 +1,6 @@
+name: SailingPlugin
+main: com.life.sailingplugin.Main
+version: 1.0.0
+description: SailingPlugin Description
+author: snuri
+depend: []
